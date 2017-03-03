@@ -1,0 +1,9 @@
+c:\users\mdu123\documents\visual studio 2013\Projects\WindowsFormsApplication_AABB\WindowsFormsApplication_AABB\bin\Debug\WindowsFormsApplication_AABB.exe.config
+c:\users\mdu123\documents\visual studio 2013\Projects\WindowsFormsApplication_AABB\WindowsFormsApplication_AABB\bin\Debug\WindowsFormsApplication_AABB.exe
+c:\users\mdu123\documents\visual studio 2013\Projects\WindowsFormsApplication_AABB\WindowsFormsApplication_AABB\bin\Debug\WindowsFormsApplication_AABB.pdb
+c:\users\mdu123\documents\visual studio 2013\Projects\WindowsFormsApplication_AABB\WindowsFormsApplication_AABB\obj\Debug\WindowsFormsApplication_AABB.csprojResolveAssemblyReference.cache
+c:\users\mdu123\documents\visual studio 2013\Projects\WindowsFormsApplication_AABB\WindowsFormsApplication_AABB\obj\Debug\WindowsFormsApplication_AABB.Form1.resources
+c:\users\mdu123\documents\visual studio 2013\Projects\WindowsFormsApplication_AABB\WindowsFormsApplication_AABB\obj\Debug\WindowsFormsApplication_AABB.Properties.Resources.resources
+c:\users\mdu123\documents\visual studio 2013\Projects\WindowsFormsApplication_AABB\WindowsFormsApplication_AABB\obj\Debug\WindowsFormsApplication_AABB.csproj.GenerateResource.Cache
+c:\users\mdu123\documents\visual studio 2013\Projects\WindowsFormsApplication_AABB\WindowsFormsApplication_AABB\obj\Debug\WindowsFormsApplication_AABB.exe
+c:\users\mdu123\documents\visual studio 2013\Projects\WindowsFormsApplication_AABB\WindowsFormsApplication_AABB\obj\Debug\WindowsFormsApplication_AABB.pdb
